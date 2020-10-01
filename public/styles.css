@@ -4,7 +4,14 @@
     flex-direction: row;
     justify-content: center;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
+}
+
+.subtitle {
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1%;
 }
 
 .threeCards {
@@ -40,5 +47,73 @@
 .card-title3 {
     text-align: center;
     font-size: xxx-large;
+}
+
+.footer {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.Author {
+    padding: 2rem;
+}
+
+.rate-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    font-size: x-large;
+}
+
+.vol-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.pct-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.ethRate-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    font-size: x-large;
+}
+
+.ethVol-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.ethPct-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.xrpRate-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    font-size: x-large;
+}
+
+.xrpVol-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.xrpPct-Text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
 }
 
